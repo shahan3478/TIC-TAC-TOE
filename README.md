@@ -1,9 +1,3 @@
-This is a great project to showcase your DOM manipulation and CSS Grid skills. Since you've added some fun elements like the dancing panda and sound effects, your README should highlight both the technical logic and the user experience.
-
-Here is a structured, professional README template you can copy and paste into your `README.md` file.
-
----
-
 # 🎮 Tic Tac Toe - The Panda Edition
 
 A clean, responsive, and interactive Tic Tac Toe game built with vanilla JavaScript, CSS Grid, and a touch of personality.
